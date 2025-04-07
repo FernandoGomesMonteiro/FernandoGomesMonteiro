@@ -22,8 +22,22 @@
   <img src="https://img.shields.io/badge/IoT-2A9D8F?style=for-the-badge&logo=internet-of-things&logoColor=white" />
 </p>
 
-## 🌱 Atualmente aprendendo
+Estagiário em TI | Aspirante a Desenvolvedor Backend
+Atuo com infraestrutura e automação em uma empresa de logística, desenvolvendo soluções práticas para otimizar processos. Minhas experiências incluem:
 
-- IA com Deep Learning
-- Desenvolvimento de sistemas com Node.js
-- Técnicas de visão computacional para IoT
+🛠️ Manutenção de Sistemas: Configuração de servidores (Windows/Linux), administração de Active Directory e deploy de serviços via Docker.
+
+🛠️ Habilidades Técnicas
+Linguagens: Python, mySQL, Java, PowerShell.
+
+Ferramentas: Docker, Git, Active Directory .
+
+Conhecimentos: Redes TCP/IP, Virtualização.
+
+🌱 Aprendendo
+TypeScript, JavaScript (Node.js), CyberSecurity.
+
+📌 Objetivo
+Migrar para desenvolvimento backend/automação, unindo minha base em infraestrutura à criação de sistemas escaláveis e eficientes.
+
+
