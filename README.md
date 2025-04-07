@@ -1,6 +1,5 @@
 <h3 align="center">Olá, Sou o Fernando Gomes Monteiro</h3>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/xxxxxxxx?v=4" alt="Fernando Gomes Monteiro" width="200" />
 </p>
 <p align="center">
   Desenvolvedor apaixonado por IA, IoT e tecnologia. Atualmente focado em projetos de IA e sistemas inteligentes.
